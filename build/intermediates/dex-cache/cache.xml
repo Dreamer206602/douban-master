@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_aec166aea1f660a2362b2c77b3f5b87359eed670.jar" />
+    </item>
+    <item
+        jar="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_2a2be2a9309e6e516765aa89af808bbbdf42f838.jar" />
+    </item>
+    <item
+        jar="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f20009c5cdd96a593f1e5dfe164163e19b051d3">
+        <dex dex="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\pre-dexed\debug\instant-run_e39de427ff2654cfe3750f02bb4ee0228844e0fe.jar" />
+    </item>
+    <item
+        jar="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5779386b8d05da0bce36a1e62655f0879588b7a">
+        <dex dex="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4104cd61ed025cce4f64bf8cfd4ca0e46d267483.jar" />
+    </item>
+    <item
+        jar="F:\SDKSpaceAndroidStudio\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\AsWorkSpace_custome\douban-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_77ac850dd82ab645ba60b496bd32b3c1e75fff20.jar" />
+    </item>
+
+</items>

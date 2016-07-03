@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AsWorkSpace_custome\\douban-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AsWorkSpace_custome\\douban-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AsWorkSpace_custome\\douban-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\person_detail.xml",
+        "source": "E:\\AsWorkSpace_custome\\douban-master\\app\\src\\main\\res\\menu\\person_detail.xml"
+    },
+    {
+        "merged": "E:\\AsWorkSpace_custome\\douban-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "E:\\AsWorkSpace_custome\\douban-master\\app\\src\\main\\res\\menu\\history.xml"
+    }
+]

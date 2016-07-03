@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AsWorkSpace_custome\\douban-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AsWorkSpace_custome\\douban-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AsWorkSpace_custome\\douban-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_medium.png",
+        "source": "E:\\AsWorkSpace_custome\\douban-master\\app\\src\\main\\res\\drawable-hdpi\\img_medium.png"
+    }
+]
